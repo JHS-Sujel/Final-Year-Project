@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "url": "/admin",
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "icon": "feather icon-home"
+    },
+    {
+      "url": "/admin/products",
+      "name": "Products",
+      "slug": "admin/products",
+      "icon": "feather icon-box"
+    },
+    {
+      "url": "/admin/stocks",
+      "name": "Stocks",
+      "slug": "admin/stocks",
+      "icon": "feather icon-folder"
+    },
+    {
+      "url": "/admin/orders",
+      "name": "Orders",
+      "slug": "admin/orders",
+      "icon": "feather icon-file"
+    },
+    {
+      "url": "/admin/messages",
+      "name": "Messages",
+      "slug": "admin/messages",
+      "icon": "feather icon-message-square"
+    },
+    {
+      "url": "/admin/product-types",
+      "name": "Product Types",
+      "slug": "admin/product-types",
+      "icon": "feather icon-hash"
+    },
+    {
+      "url": "/admin/brands",
+      "name": "Brands",
+      "slug": "admin/brands",
+      "icon": "feather icon-tag"
+    },
+    {
+      "url": "/admin/roles",
+      "name": "Roles",
+      "slug": "admin/roles",
+      "icon": "feather icon-user"
+    }
+  ]
+}

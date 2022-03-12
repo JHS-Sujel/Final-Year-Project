@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "url": "dashboard-analytics",
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "icon": "feather icon-home"
+    },
+    {
+      "url": "",
+      "name": "Menu Example",
+      "slug": "dashboard",
+      "icon": "feather icon-home",
+      "i18n": "Dashboard",
+      "submenu": [
+        {
+          "url": "dashboard-analytics",
+          "name": "Analytics",
+          "icon": "feather icon-activity",
+          "i18n": "nav.dashboard_analytics"
+        },
+        {
+          "url": "dashboard-ecommerce",
+          "name": "eCommerce",
+          "icon": "feather icon-shopping-cart",
+          "i18n": "nav.dashboard_ecommerce"
+        }
+      ]
+    }
+  ]
+}
