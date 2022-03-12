@@ -16,7 +16,9 @@
 - Run npm run watch [In one command line tab]
 - Run php artisan serve [In new command line tab]
 - Login info: 
-              1. Customer- 
+             
+             
+             1. Customer- 
                                
                                email- jhs01736683853@gmail.com 
                                pass- 12345678
